@@ -1,21 +1,37 @@
-# 👋 Hola, soy Eduardo
+# 👋 ¡Hola! Soy **Eduardo**
 
-Soy desarrollador Java Spring y me encanta construir productos funcionales, seguros y bien estructurados. Actualmente estoy trabajando en microservicios con Spring Boot, JWT y Keycloak.
+Soy **ingeniero en sistemas** con una fuerte pasión por el desarrollo de software. Me especializo en construir soluciones **funcionales**, **seguras** y **escalables** que resuelven problemas reales. Disfruto diseñar **sistemas complejos** y me apasiona profundamente la **arquitectura de software**.
 
-## 🧠 Habilidades
-- 🔧 Java 21 / Spring Boot 3
-- 🛡️ Seguridad con Keycloak
-- 🌐 APIs REST / Microservicios
-- ☁️ Despliegue en Railway, Render y más
-- 💾 PostgreSQL, MySQL
+Actualmente estoy trabajando con **Java Spring Boot** en entornos de **microservicios**, integrando autenticación mediante **Keycloak** y desplegando aplicaciones en la nube.
 
-## 🚀 Proyectos Destacados
 
-CATTIO
-App web en la cual puedes gestionar tus finanzas personales, desde ingresos, gastos y deudas hasta inversiones
-web site
-<img width="1831" height="931" alt="image" src="https://github.com/user-attachments/assets/a2501ced-6f47-4027-a134-eaf1ab352f5f" />
-app
-<img width="328" height="904" alt="image" src="https://github.com/user-attachments/assets/b716bbe2-d7b3-429a-8d53-a91d083f98d8" />
+---
 
-web (https://cattioapp.figma.site/)
+## 🧠 Habilidades Técnicas
+
+- ⚙️ **Java 21**, **Spring Boot 3**
+- 🔐 Seguridad con **Keycloak** (OAuth2, JWT)
+- 🌐 Arquitectura de **microservicios** y **APIs REST**
+- ☁️ Despliegue en **Railway**, **Render**, y otros servicios cloud
+- 🗄️ **PostgreSQL**, **MySQL**
+- 💻 Frontend con **React**, **Angular** y **Tailwind CSS 3**
+
+---
+
+## 🚀 Proyecto Destacado: **CATTIO**
+
+Una aplicación web para gestionar tus **finanzas personales**: controla ingresos, gastos, deudas e incluso inversiones. Ideal para llevar tus finanzas al día de forma clara y organizada.
+
+🔗 [Sitio web de CATTIO](https://cattioapp.figma.site/)
+
+### 🌐 Versión Web  
+![CATTIO Web](https://github.com/user-attachments/assets/a2501ced-6f47-4027-a134-eaf1ab352f5f)
+
+### 📱 Versión Móvil  
+![CATTIO App](https://github.com/user-attachments/assets/b716bbe2-d7b3-429a-8d53-a91d083f98d8)
+
+---
+
+## 📫 ¿Quieres colaborar?
+
+Estoy abierto a oportunidades interesantes, contribuciones a proyectos y colaboración con otros desarrolladores. Puedes contactarme por aquí o a través de [LinkedIn](#).
