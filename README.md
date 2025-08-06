@@ -32,6 +32,3 @@ Una aplicación web para gestionar tus **finanzas personales**: controla ingreso
 
 ---
 
-## 📫 ¿Quieres colaborar?
-
-Estoy abierto a oportunidades interesantes, contribuciones a proyectos y colaboración con otros desarrolladores. Puedes contactarme por aquí o a través de [LinkedIn](#).
