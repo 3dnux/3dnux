@@ -21,20 +21,3 @@ Actualmente estoy trabajando con **Java Spring Boot** en entornos de **microserv
 ## Proyecto Nuevo: **ARIA**
 
 🔗 [Sitio web de ARIA](https://aria.inversha.com/)
-
----
-
-## 🚀 Proyecto Destacado: **CATTIO**
-
-Una aplicación web para gestionar tus **finanzas personales**: controla ingresos, gastos, deudas e incluso inversiones. Ideal para llevar tus finanzas al día de forma clara y organizada.
-
-🔗 [Sitio web de CATTIO](https://cattioapp.figma.site/)
-
-### 🌐 Versión Web  
-![CATTIO Web](https://github.com/user-attachments/assets/a2501ced-6f47-4027-a134-eaf1ab352f5f)
-
-### 📱 Versión Móvil  
-![CATTIO App](https://github.com/user-attachments/assets/b716bbe2-d7b3-429a-8d53-a91d083f98d8)
-
----
-
